@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/geritch/static/css/main.655454ab.chunk.css",
+    "main.js": "/geritch/static/js/main.2a11ae9f.chunk.js",
+    "main.js.map": "/geritch/static/js/main.2a11ae9f.chunk.js.map",
+    "runtime-main.js": "/geritch/static/js/runtime-main.4665a3ca.js",
+    "runtime-main.js.map": "/geritch/static/js/runtime-main.4665a3ca.js.map",
+    "static/js/2.e792c259.chunk.js": "/geritch/static/js/2.e792c259.chunk.js",
+    "static/js/2.e792c259.chunk.js.map": "/geritch/static/js/2.e792c259.chunk.js.map",
+    "index.html": "/geritch/index.html",
+    "static/css/main.655454ab.chunk.css.map": "/geritch/static/css/main.655454ab.chunk.css.map",
+    "static/js/2.e792c259.chunk.js.LICENSE.txt": "/geritch/static/js/2.e792c259.chunk.js.LICENSE.txt",
+    "static/media/G.b571eb82.png": "/geritch/static/media/G.b571eb82.png",
+    "static/media/award01.361a4bc4.png": "/geritch/static/media/award01.361a4bc4.png",
+    "static/media/award02.8bbdd514.png": "/geritch/static/media/award02.8bbdd514.png",
+    "static/media/award03.3f7ee934.png": "/geritch/static/media/award03.3f7ee934.png",
+    "static/media/award05.48a7f520.png": "/geritch/static/media/award05.48a7f520.png",
+    "static/media/App.css": "/geritch/static/media/bg.3d421b1b.png",
+    "static/media/chef.02d6c5b6.png": "/geritch/static/media/chef.02d6c5b6.png",
+    "static/media/findus.585c393c.png": "/geritch/static/media/findus.585c393c.png",
+    "static/media/gallery01.f2cbffe3.png": "/geritch/static/media/gallery01.f2cbffe3.png",
+    "static/media/gallery02.27663bd9.png": "/geritch/static/media/gallery02.27663bd9.png",
+    "static/media/gallery03.b2d50180.png": "/geritch/static/media/gallery03.b2d50180.png",
+    "static/media/gallery04.c36a695f.png": "/geritch/static/media/gallery04.c36a695f.png",
+    "static/media/knife.1121c0a5.png": "/geritch/static/media/knife.1121c0a5.png",
+    "static/media/laurels.e7608286.png": "/geritch/static/media/laurels.e7608286.png",
+    "static/media/logo.0286194c.png": "/geritch/static/media/logo.0286194c.png",
+    "static/media/meal.a1b6c6dc.mp4": "/geritch/static/media/meal.a1b6c6dc.mp4",
+    "static/media/menu.a8287c67.png": "/geritch/static/media/menu.a8287c67.png",
+    "static/media/overlaybg.165362ee.png": "/geritch/static/media/overlaybg.165362ee.png",
+    "static/media/sign.9bf0bd90.png": "/geritch/static/media/sign.9bf0bd90.png",
+    "static/media/spoon.b5681c86.svg": "/geritch/static/media/spoon.b5681c86.svg",
+    "static/media/welcome.d724eb98.png": "/geritch/static/media/welcome.d724eb98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4665a3ca.js",
+    "static/js/2.e792c259.chunk.js",
+    "static/css/main.655454ab.chunk.css",
+    "static/js/main.2a11ae9f.chunk.js"
+  ]
+}
